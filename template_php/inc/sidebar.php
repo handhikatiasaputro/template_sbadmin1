@@ -28,6 +28,10 @@
                                 <div class="sb-nav-link-icon"><i class="fas fa-user"></i></div>
                                 Data User
                             </a>
+                            <a class="nav-link" href="<?php echo BASE_URL;?>/pages/profile/update_profile.php">
+                                <div class="sb-nav-link-icon"><i class="fas fa-pen"></i></div>
+                                Update Profile
+                            </a>
                             <a class="nav-link" href="<?php echo BASE_URL;?>/pages/ganti_password/ganti_password.php">
                                 <div class="sb-nav-link-icon"><i class="fas fa-lock"></i></div>
                                 Ganti Password
